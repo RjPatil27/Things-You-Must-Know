@@ -6,4 +6,6 @@ This repository contain some life saving hacks and website that we can use in ou
 You can go to https://open.appacademy.io/ . this is an code learnin website. So, they have a open program for learning entire full stack course. 
 You can just sign up and continue with free plan. & Booom, you can start learning full stack developmenet for free.
 
+### 2) Coding Interview University - Github
+If you are preparing for coding interview then this github repository is best for you. 
 
