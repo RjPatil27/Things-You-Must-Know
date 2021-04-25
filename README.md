@@ -10,3 +10,10 @@ You can just sign up and continue with free plan. & Booom, you can start learnin
 If you are preparing for coding interview then this github repository is best for you. 
 link: https://github.com/jwasham/coding-interview-university
 
+### 3) Mungell/awesome-for-beginners
+If you learn new programming language and not sure how you can use it practically then this repo is best for you. 
+This repository contain awesome beginners friendly project. It contain multiple language projects. 
+Try it out.
+link: https://github.com/MunGell/awesome-for-beginners
+
+
