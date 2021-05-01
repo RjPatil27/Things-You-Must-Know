@@ -17,5 +17,9 @@ Try it out. \
 link: https://github.com/MunGell/awesome-for-beginners
 
 ### 4) eartrumpet windows Application
+It is a windows software which allows you to control voice for multiple application at a time. \
+Try it out \
+link: https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab
+
 
 
