@@ -26,6 +26,11 @@ This is an latex editor used for writing, publishing, editing documents like pro
 It is very easy to use. You just have to select template and edit it as per your need \
 link: https://www.overleaf.com/
 
+### 6) ClickASnap
+This website are for photographers who want to get paid when their photos are viewed.
+It's free to sign up !!
+you can get 0.40 cent paid per photo view and minimum payour is $15.
+link: https://www.clickasnap.com/
 
 
 
